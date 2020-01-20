@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/qtquickcontrols2.conf</file>
+        <file>qml/main.qml</file>
+        <file>qml/pages/HomePage.qml</file>
+        <file>qml/pages/CalendarPage.qml</file>
+        <file>qml/pages/TrafficPage.qml</file>
+        <file>qml/pages/ClockAlarmPage.qml</file>
+        <file>qml/widgets/LocationWidget.qml</file>
+        <file>qml/widgets/WeatherWidget.qml</file>
+        <file>qml/widgets/HourWeatherWidget.qml</file>
+        <file>qml/pages/SettingsPage.qml</file>
+        <file>qml/components/ColorImage.qml</file>
+        <file>qml/components/ColorIcon.qml</file>
+        <file>qml/components/IconButton.qml</file>
+        <file>qml/widgets/DatePicker.qml</file>
+        <file>qml/components/BorderButton.qml</file>
+        <file>qml/widgets/AlarmWidget.qml</file>
+        <file>qml/components/CheckBox.qml</file>
+        <file>qml/components/ClickableText.qml</file>
+        <file>qml/widgets/ClockEdit.qml</file>
+        <file>qml/components/ComboBox.qml</file>
+        <file>qml/pages/BellPage.qml</file>
+    </qresource>
+</RCC>

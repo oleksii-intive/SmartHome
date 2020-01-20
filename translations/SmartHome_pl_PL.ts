@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="pl_PL">
+<context>
+    <name>AlarmData</name>
+    <message>
+        <source>No</source>
+        <translation>Nie</translation>
+    </message>
+</context>
+<context>
+    <name>AlarmWidget</name>
+    <message>
+        <source>Weekdays</source>
+        <translation>Dni powszednie</translation>
+    </message>
+    <message>
+        <source>Mon</source>
+        <translation>Pon</translation>
+    </message>
+    <message>
+        <source>Repeat</source>
+        <translation>Powtarzać</translation>
+    </message>
+    <message>
+        <source>Weekend</source>
+        <translation>Weekend</translation>
+    </message>
+    <message>
+        <source>Everyday</source>
+        <translation>Codziennie</translation>
+    </message>
+    <message>
+        <source>Tue</source>
+        <translation>Wto</translation>
+    </message>
+    <message>
+        <source>Wed</source>
+        <translation>Śro</translation>
+    </message>
+    <message>
+        <source>Thu</source>
+        <translation>Czw</translation>
+    </message>
+    <message>
+        <source>Fri</source>
+        <translation>Pią</translation>
+    </message>
+    <message>
+        <source>Sat</source>
+        <translation>Sob</translation>
+    </message>
+    <message>
+        <source>Sun</source>
+        <translation>Nie</translation>
+    </message>
+</context>
+<context>
+    <name>CalendarPage</name>
+    <message>
+        <source>Select</source>
+        <translation>Wybierz</translation>
+    </message>
+</context>
+<context>
+    <name>ClockAlarmPage</name>
+    <message>
+        <source>Repeat: %1</source>
+        <translation>Powtarzać: %1</translation>
+    </message>
+</context>
+<context>
+    <name>DatePicker</name>
+    <message>
+        <source>January</source>
+        <translation>Styczeń</translation>
+    </message>
+    <message>
+        <source>February</source>
+        <translation>Luty</translation>
+    </message>
+    <message>
+        <source>March</source>
+        <translation>Marzec</translation>
+    </message>
+    <message>
+        <source>April</source>
+        <translation>Kwiecień</translation>
+    </message>
+    <message>
+        <source>May</source>
+        <translation>Maj</translation>
+    </message>
+    <message>
+        <source>June</source>
+        <translation>Czerwiec</translation>
+    </message>
+    <message>
+        <source>July</source>
+        <translation>Lipiec</translation>
+    </message>
+    <message>
+        <source>August</source>
+        <translation>Sierpień</translation>
+    </message>
+    <message>
+        <source>September</source>
+        <translation>Wrzesień</translation>
+    </message>
+    <message>
+        <source>October</source>
+        <translation>Październik</translation>
+    </message>
+    <message>
+        <source>November</source>
+        <translation>Listopad</translation>
+    </message>
+    <message>
+        <source>December</source>
+        <translation>Grudzień</translation>
+    </message>
+</context>
+<context>
+    <name>QObject</name>
+    <message>
+        <source>Mon</source>
+        <translation>Pon</translation>
+    </message>
+    <message>
+        <source>Tue</source>
+        <translation>Wto</translation>
+    </message>
+    <message>
+        <source>Wed</source>
+        <translation>Śro</translation>
+    </message>
+    <message>
+        <source>Thu</source>
+        <translation>Czw</translation>
+    </message>
+    <message>
+        <source>Fri</source>
+        <translation>Pią</translation>
+    </message>
+    <message>
+        <source>Sat</source>
+        <translation>Sob</translation>
+    </message>
+    <message>
+        <source>Sun</source>
+        <translation>Nie</translation>
+    </message>
+</context>
+<context>
+    <name>SettingsManager</name>
+    <message>
+        <source>Light</source>
+        <translation type="vanished">Jasny</translation>
+    </message>
+    <message>
+        <source>Dark</source>
+        <translation type="vanished">Ciemny</translation>
+    </message>
+</context>
+<context>
+    <name>SettingsPage</name>
+    <message>
+        <source>Language</source>
+        <translation>Język</translation>
+    </message>
+    <message>
+        <source>Wallpaper</source>
+        <translation>Tapeta</translation>
+    </message>
+    <message>
+        <source>Theme</source>
+        <translation>Motyw</translation>
+    </message>
+</context>
+<context>
+    <name>ThemeModel</name>
+    <message>
+        <source>Light</source>
+        <translation>Jasny</translation>
+    </message>
+    <message>
+        <source>Dark</source>
+        <translation>Ciemny</translation>
+    </message>
+</context>
+<context>
+    <name>WallpaperModel</name>
+    <message>
+        <source>Wallpaper 1</source>
+        <translation>Tapeta 1</translation>
+    </message>
+    <message>
+        <source>Wallpaper 2</source>
+        <translation>Tapeta 2</translation>
+    </message>
+    <message>
+        <source>Wallpaper 3</source>
+        <translation>Tapeta 3</translation>
+    </message>
+    <message>
+        <source>Wallpaper 4</source>
+        <translation>Tapeta 4</translation>
+    </message>
+</context>
+<context>
+    <name>WeatherWidget</name>
+    <message>
+        <source>Humidity:%1%2% Wind:%3%4m/s Pressure:%5%6hPa</source>
+        <translation>Wilgotność:%1%2% Wiatr:%3%4m/s Ciśnienie:%5%6hPa</translation>
+    </message>
+</context>
+</TS>
