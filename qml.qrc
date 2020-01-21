@@ -5,7 +5,7 @@
         <file>qml/pages/HomePage.qml</file>
         <file>qml/pages/CalendarPage.qml</file>
         <file>qml/pages/TrafficPage.qml</file>
-        <file>qml/pages/ClockAlarmPage.qml</file>
+        <file>qml/pages/AlarmPage.qml</file>
         <file>qml/widgets/LocationWidget.qml</file>
         <file>qml/widgets/WeatherWidget.qml</file>
         <file>qml/widgets/HourWeatherWidget.qml</file>

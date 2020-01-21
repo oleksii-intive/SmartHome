@@ -55,7 +55,7 @@ Item {
             MouseArea {
                 anchors.fill: parent
                 onClicked: {
-                    appWindow.showClockAlarmPage()
+                    appWindow.showAlarmPage()
                 }
             }
         }

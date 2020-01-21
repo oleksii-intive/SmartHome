@@ -28,8 +28,8 @@ ApplicationWindow {
         stackView.push(calendarComponent)
     }
 
-    function showClockAlarmPage() {
-        stackView.push(clockAlarmComponent)
+    function showAlarmPage() {
+        stackView.push(alarmComponent)
     }
 
     StackView {
@@ -66,9 +66,9 @@ ApplicationWindow {
     }
 
     Component {
-        id: clockAlarmComponent
+        id: alarmComponent
 
-        ClockAlarmPage {}
+        AlarmPage {}
     }
 
     Component {
