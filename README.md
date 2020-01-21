@@ -9,7 +9,7 @@ The system has been tested so far on Ubuntu 18.04 and Android 7.0 with Qt 5.12.3
 
 ## Screenshots
 
-###Ubuntu light theme screenshots
+**Ubuntu light theme screenshots**
 
 Home screen: 
 ![](https://github.com/oleksii-intive/SmartHome/blob/master/screenshots/ubuntu/home_page.png)
@@ -26,7 +26,7 @@ Alarm screen:
 Settings screen: 
 ![](https://github.com/oleksii-intive/SmartHome/blob/master/screenshots/ubuntu/settings_page.png)
 
-###Android dark theme screenshots
+**Android dark theme screenshots**
 
 Home screen: 
 ![](https://github.com/oleksii-intive/SmartHome/blob/master/screenshots/android/home_page.jpeg)
