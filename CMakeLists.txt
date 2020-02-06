@@ -88,3 +88,8 @@ target_compile_definitions(${PROJECT_NAME}
 target_link_libraries(${PROJECT_NAME} PRIVATE
   Qt5::Core Qt5::Quick Qt5::Network Qt5::Positioning Qt5::Location
   Qt5::OpenGL Qt5::Multimedia Qt5::Sql Qt5::Svg)
+
+if(RASPBERRY_PI)
+  set_target_properties(${PROJECT_NAME} PROPERTIES LINK_FLAGS "-mfloat-abi=hard --sysroot=~/raspberry/sysroot -Wl,-O1 -Wl,-rpath,/usr/local/Qt-5.12.5/lib -Wl,-rpath-link,~/raspberry/sysroot/opt/vc/lib -Wl,-rpath-link,~/raspberry/sysroot/usr/lib/arm-linux-gnueabihf -Wl,-rpath-link,~/raspberry/sysroot/lib/arm-linux-gnueabihf")
+  install (TARGETS ${PROJECT_NAME} RUNTIME DESTINATION ${PROJECT_NAME})
+endif()
